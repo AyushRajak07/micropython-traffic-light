@@ -16,9 +16,6 @@ Perfect for beginners learning MicroPython, IoT, GPIO control, and I2C communica
 - Proper delay timing (5s Red/Green, 2s Yellow)
 - Well-commented and beginner-friendly code
 
-## 🖼️ Demo (Real Hardware)
-![Traffic Light in Action](demo.jpg)  
-*(Add your own photo here after uploading to the repo)*
 
 ## ⚙️ Hardware Required
 - ESP32 or ESP8266 (any variant)
