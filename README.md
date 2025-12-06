@@ -1,1 +1,2 @@
-# micropython-traffic-light
+# Micropython-traffic-light
+
