@@ -1,0 +1,23 @@
+## Components Used (with Buy Links & Details)
+
+| # | Component                          | Specifications                          | Quantity | Approx. Price | Purchase Link (Example) |
+|---|------------------------------------|------------------------------------------|----------|---------------|--------------------------|
+| 1 | **ESP32 Development Board**        | ESP32-WROOM-32, 30/38 pins               | 1        | $4–6          | [Amazon](https://www.amazon.com/ESP-WROOM-32-Development-Microcontroller-Integrated-Compatible/dp/B08D5ZD528) / [AliExpress](https://s.click.aliexpress.com/e/_dExample) |
+| 2 | **SSD1306 OLED Display 128×64**    | I2C, 0.96 inch, White/Blue               | 1        | $3–5          | [Amazon](https://www.amazon.com/HiLetgo-SSD1306-I2C-IIC-Serial-Optional/dp/B076DYCWC8) / [AliExpress](https://s.click.aliexpress.com/e/_dExample2) |
+| 3 | **Red LED (5mm)**                  | Standard bright red                      | 1        | $0.10         | [Amazon](https://www.amazon.com/CHANZON-Transparent-Lighting-Electronics-Components-Emitting/dp/B01AUI4WC8) |
+| 4 | **Yellow/Amber LED (5mm)**         | Standard bright yellow                   | 1        | $0.10         | [Amazon](https://www.amazon.com/CHANZON-Transparent-Lighting-Electronics-Components-Emitting/dp/B01AUI4VS8) |
+| 5 | **Green LED (5mm)**                | Standard bright green                    | 1        | $0.10         | [Amazon](https://www.amazon.com/CHANZON-Transparent-Lighting-Electronics-Components-Emitting/dp/B01AUI4VVA) |
+| 6 | **220Ω or 330Ω Resistors**         | 1/4 watt (for LEDs)                      | 3        | $0.01 each    | [Amazon](https://www.amazon.com/BOJACK-Single-Resistor-Resistors-200pcs/dp/B07PFFF1VK) |
+| 7 | **Breadboard (400/830 points)**    | Mini or full-size                        | 1        | $2–4          | [Amazon](https://www.amazon.com/BB400-Solderless-Plug-BreadBoard-tie-points/dp/B0040Z1ERO) |
+| 8 | **Jumper Wires (Male-to-Male)**    | Dupont wires                             | 15–20    | $1–2 (pack)   | [Amazon](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78) |
+| 9 | **Micro-USB Cable**                | For powering & flashing ESP32            | 1        | Already have  | — |
+
+### Total Estimated Cost: **Less than Rs. 500** (even cheaper if bought in bulk from Flipkart/Amazon)
+
+### Optional (for future upgrades)
+- Tactile push button (pedestrian crossing)
+- Active buzzer (beep on yellow/red)
+- 10kΩ pull-down resistors (for buttons)
+
+
+All components are beginner-friendly, widely available, and require **no soldering** if you use a breadboard.
